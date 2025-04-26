@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently developing my own OS<br>🌱 I’m currently learning Machine Learning <br>💬 Ask me about animes, philosophy, games<br>🤝 Reach me @hydhexane@gmail.com
+🔭 I’m currently reworking on my DSA<br>🌱 I’m currently learning Machine Learning <br>💬 Ask me about animes, philosophy, games<br>🤝 Reach me @hydhexane@gmail.com
 
 
 ## 🌐 Socials:
