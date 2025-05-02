@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently reworking on my DSA and backend Development<br>🌱<br>💬 Ask me about animes, guitar, art or games<br>🤝 Reach me @hydhexane@gmail.com
+🔭 I’m currently reworking on my DSA and backend Development<br>💬 Ask me about animes, guitar, art or games<br>🤝 Reach me @hydhexane@gmail.com
 
 
 ## 🌐 Socials:
