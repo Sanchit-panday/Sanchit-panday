@@ -1,6 +1,7 @@
-### 💫 About Me:
-🔭 I’m currently reworking on my DSA and backend Development<br>💬 Ask me about animes, guitar, art or games<br>🤝 Reach me @hydhexane@gmail.com
-
+About Me:
+- 🐝 I'm an undergraduate at the **Kalinga Institute of Industrial Techonology** studying Computer Science
+- 👾 I'm intrested in in **Web, App** and **system development**
+- 👩‍💻 Most of my experience is in **full stack development** and **systems programming**
 
 ### 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanchitp) 
 
