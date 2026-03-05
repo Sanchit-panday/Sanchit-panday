@@ -3,7 +3,7 @@ About Me:
 - 👾 I'm intrested in in **Web, App** and **system development**
 - 👩‍💻 Most of my experience is in **full stack development** and **app development**
 
-### 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanchitp) [![Static Badge](https://img.shields.io/badge/Website-%2520?style=for-the-badge&logo=vercel&logoColor=white&labelColor=black&color=yellow)](https://sanchitpandey.vercel.app/)
+### 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanchitp) [![Static Badge](https://img.shields.io/badge/Website-%2520?style=for-the-badge&logo=vercel&logoColor=white&labelColor=black&color=yellow)]()
 
 
 ### 💻 Tech Stack:
