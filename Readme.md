@@ -1,7 +1,7 @@
 About Me:
 - 🐝 I'm an undergraduate at the **Kalinga Institute of Industrial Techonology** studying Computer Science
 - 👾 I'm intrested in in **Web, App** and **system development**
-- 👩‍💻 Most of my experience is in **full stack development** and **app development**
+- 👩‍💻 Most of my experience is in **full stack development** and **app development** 
 
 ### 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanchitp) [![Static Badge](https://img.shields.io/badge/Website-%2520?style=for-the-badge&logo=vercel&logoColor=white&labelColor=black&color=yellow)](https://sanchitpandey-n77djsnh8-sanchits-projects-81e9c97d.vercel.app/)
 
