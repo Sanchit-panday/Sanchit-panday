@@ -4,7 +4,7 @@
 <tr>
   <td width="140" align="center" valign="top">
     <a href="https://synapsebook.onrender.com/">
-      <img src="" width="90" alt="Synapse Book"/>
+      <img src="https://ik.imagekit.io/sanchitp/Icons/hero-icons/logo.png" width="90" alt="Synapse Book"/>
     </a>
   </td>
     <td align="left" valign="top">
@@ -16,7 +16,7 @@
 <tr>
   <td width="140" align="center" valign="top">
     <a href="https://commentanalyzer.pages.dev/">
-      <img src="" width="90" alt="Comment Analyzer"/>
+      <img src="https://ik.imagekit.io/sanchitp/Icons/hero-icons/commentanalyzer.webp" width="90" alt="Comment Analyzer"/>
     </a>
   </td>
     <td align="left" valign="top">
