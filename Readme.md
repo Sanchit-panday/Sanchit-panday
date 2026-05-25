@@ -24,3 +24,16 @@
     <p>A lexical-based tool for analyzing comments, extracting patterns, and providing sentiment, engagement, and moderation insights. It calculates sentiment scores using a custom dataset of positive and negative words.</p>
   </td>
 </tr>
+
+
+<tr>
+  <td width="140" align="center" valign="top">
+    <a href="https://ai-scam-text-and-image-detector.vercel.app">
+      <img src="https://ik.imagekit.io/sanchitp/Icons/hero-icons/Untitled%20design.webp" width="90" alt="AI Scam Detector"/>
+    </a>
+  </td>
+    <td align="left" valign="top">
+  <h3>AI Scam Detector</h3>
+    <p></p>
+  </td>
+</tr>
