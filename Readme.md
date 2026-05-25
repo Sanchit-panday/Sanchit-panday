@@ -9,7 +9,7 @@
   </td>
     <td align="left" valign="top">
   <h3>AI Scam Detector</h3>
-    <p></p>
+    <p>AI-powered phishing and scam detection platform that analyzes text messages and screenshots using machine learning and OCR. Built with Next.js, ASP.NET Core, Python, and Scikit-learn, featuring risk assessment, indicator detection, scan history, Docker deployment, and cloud-hosted frontend/backend services.</p>
   </td>
 </tr>
 
