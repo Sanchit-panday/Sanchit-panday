@@ -1,4 +1,5 @@
-### Socials: [![Static Badge](https://img.shields.io/badge/Website-%2520?style=for-the-badge&logo=vercel&logoColor=white&labelColor=black&color=yellow)](https://sanchitpandey-n77djsnh8-sanchits-projects-81e9c97d.vercel.app/)
+![header](https://ik.imagekit.io/sanchitp/Wallpapers/header.jpg?updatedAt=1780434288320)
+### Socials: [Website](https://sanchitpandey-n77djsnh8-sanchits-projects-81e9c97d.vercel.app/)
 <table width="100%">
   
 <tr>
