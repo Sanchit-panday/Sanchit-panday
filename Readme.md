@@ -1,10 +1,10 @@
-### Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanchitp) [![Static Badge](https://img.shields.io/badge/Website-%2520?style=for-the-badge&logo=vercel&logoColor=white&labelColor=black&color=yellow)](https://sanchitpandey-n77djsnh8-sanchits-projects-81e9c97d.vercel.app/)
+### Socials: [![Static Badge](https://img.shields.io/badge/Website-%2520?style=for-the-badge&logo=vercel&logoColor=white&labelColor=black&color=yellow)](https://sanchitpandey-n77djsnh8-sanchits-projects-81e9c97d.vercel.app/)
 <table width="100%">
   
 <tr>
   <td width="140" align="center" valign="top">
     <a href="https://ai-scam-text-and-image-detector.vercel.app">
-      <img src="https://ik.imagekit.io/sanchitp/Icons/hero-icons/Untitled%20design.webp" width="90" alt="AI Scam Detector"/>
+      <img src="https://ik.imagekit.io/sanchitp/Icons/hero-icons/MildyAI.png" width="90" alt="AI Scam Detector"/>
     </a>
   </td>
     <td align="left" valign="top">
