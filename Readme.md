@@ -39,4 +39,16 @@
   </td>
 </tr>
 
+<tr>
+  <td width="140" align="center" valign="top">
+    <a href="https://github.com/Sanchit-panday/web-crawler">
+      <img src="https://ik.imagekit.io/sanchitp/Icons/hero-icons/webCrawler.webp?updatedAt=1781715615560" width="90" alt="Comment Analyzer"/>
+    </a>
+  </td>
+    <td align="left" valign="top">
+  <h3>Web Crawler</h3>
+    <p>CS 4675 HW1 Web Crawler</p>
+  </td>
+</tr>
+
 
